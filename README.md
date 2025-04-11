@@ -62,6 +62,7 @@ portfolio-website
 #### Using Docker (Recommended)
 
 1. Clone the repository
+
    ```bash
    git clone https://github.com/yourusername/portfolio-website.git
    cd portfolio-website
